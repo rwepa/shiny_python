@@ -7,6 +7,16 @@ R語言的 shiny 套件可以建立跨平台的互動式網頁，今年（2022�
 # Youtube 說明
 
 
+# PDF 
+
+1. RWEPA 簡介
+2. 資料分析架構APC方法
+3. 資料分析與視覺化應用
+4. shiny 簡介
+5. shiny for Python 實作篇1 - my_app
+6. shiny for Python 實作篇2 – 01_hello 
+7. 結論
+
 
 # Python 程式
 
