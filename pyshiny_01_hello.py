@@ -6,7 +6,7 @@
 # GitHub   : https://github.com/rwepa
 # Encoding : UTF-8
 
-# Python codes: https://shiny.rstudio.com/py/api/reference/shiny.ui.layout_sidebar.html#shiny.ui.layout_sidebar
+# Python codes reference: https://shiny.rstudio.com/py/api/reference/shiny.ui.layout_sidebar.html#shiny.ui.layout_sidebar
 # rdatasets package: https://github.com/vincentarelbundock/Rdatasets
 # running with: shiny run --reload pyshiny_01_hello/pyshiny_01_hello.py
 
@@ -34,3 +34,4 @@ def server(input, output, session):
         return myplot
 
 app = App(app_ui, server)
+# end
