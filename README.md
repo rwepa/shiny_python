@@ -25,7 +25,11 @@ https://github.com/rwepa/shiny_python/blob/main/pyshiny_01_hello.py
 
 # 檔案架構
 
-+ D:\shinydemo\pyshiny_01_hello\pyshiny_01_hello.py
++ shiny 一般以資料夾方式儲存, 本例為 pyshiny_01_hello 資料夾
+
++ Python 主程式: pyshiny_01_hello.py, 程式名稱不一定是 app.py
+
++ Python 主程式路徑: D:\shinydemo\pyshiny_01_hello\pyshiny_01_hello.py
 
 # 執行方式
 
@@ -40,4 +44,5 @@ https://github.com/rwepa/shiny_python/blob/main/pyshiny_01_hello.py
 + 瀏覽器: http://localhost:8000/ 
 
 ![image](https://github.com/rwepa/shiny_python/blob/main/imgs/shiny_python_cmd.png)
-###### end
+
+###### \#end
