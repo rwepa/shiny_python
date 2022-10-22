@@ -1,10 +1,13 @@
-R語言的 shiny 套件可以建立跨平台的互動式網頁，今年（2022）Rstudio 研討會宣佈 shiny for Python, 表示在 Python 環境亦可執行 shiny 建立互動式網頁。
+R語言的 shiny 套件可以建立跨平台的互動式網頁，今年（2022）RStudio 研討會宣佈 shiny for Python, 表示在 Python 環境亦可執行 shiny 建立互動式網頁。
+
+PyPI shiny: https://pypi.org/project/shiny/
 
 # 執行結果
 
 ![image](https://github.com/rwepa/shiny_python/blob/main/imgs/shiny_python.png)
 
 # Youtube 說明
+
 
 
 # PDF講義
