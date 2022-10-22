@@ -27,7 +27,7 @@ app_ui = ui.page_fluid(
 def server(input, output, session):
     @output
     @render.plot(alt="A histogram")
-    def plot() -> object:
+    def plot():
         
         # df['waiting'].plot(kind='hist', alpha=0.5, bins=30, title='Histogram of waiting times', grid=True)
         myplot = df['waiting'].plot(kind='hist', alpha=0.5, bins=input.bins(), title='Histogram of waiting times', grid=True)     
