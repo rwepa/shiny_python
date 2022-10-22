@@ -6,6 +6,8 @@ R語言的 shiny 套件可以建立跨平台的互動式網頁，今年（2022�
 
 # Python 程式
 
+https://github.com/rwepa/shiny_python/blob/main/pyshiny_01_hello.py
+
 # 執行方式
 
 
