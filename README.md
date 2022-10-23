@@ -4,6 +4,8 @@ R語言的 shiny 套件可以建立跨平台的互動式網頁，今年（2022�
 
 PyPI shiny: https://pypi.org/project/shiny/
 
+參考網址: http://rwepa.blogspot.com/2022/10/shiny-for-python.html
+
 # 執行結果
 
 ![image](https://github.com/rwepa/shiny_python/blob/main/imgs/shiny_python.png)
