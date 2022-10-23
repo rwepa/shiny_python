@@ -10,6 +10,8 @@ PyPI shiny: https://pypi.org/project/shiny/
 
 # Youtube 說明
 
+![image](https://github.com/rwepa/shiny_python/blob/main/imgs/shiny_python_youtube.png)
+
 https://youtu.be/s2fgEAa6lq0
 
 # PDF講義
