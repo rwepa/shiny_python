@@ -10,7 +10,7 @@ PyPI shiny: https://pypi.org/project/shiny/
 
 # Youtube 說明
 
-
+https://youtu.be/s2fgEAa6lq0
 
 # PDF講義
 
